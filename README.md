@@ -11,7 +11,7 @@
   can be adjusted at any time after adding it via the menu option, <i>Adjust Task Priorities</i>. </p>
 
 <p>Tasks can be viewed in several different ways. The main option is to view all of them by due date, but <i>Advanced Search</i> and <i>Simple Search</i> features allow
-  for a User to seach them by keyword, completion status, priority level, category, or due date. <i>Advanced Search</i> includes a combination search for priority, category,
+  for a User to search them by keyword, completion status, priority level, category, or due date. <i>Advanced Search</i> includes a combination search for priority, category,
   and/or date. </p>
 
 <p>Tasks can be marked as either completed or deleted at any time via the main menu. When completed, then they will fill the progress bar, and certain awards can be granted
