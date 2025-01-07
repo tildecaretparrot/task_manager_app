@@ -15,7 +15,7 @@
   and/or date. </p>
 
 <p>Tasks can be marked as either completed or deleted at any time via the main menu. When completed, then they will fill the progress bar, and certain awards can be granted
-  after reaching certain milestones: bronze, silver, gold, and a special high-perfomer award for a high value task over 50 points. If tasks are deleted, or a backup/import is
+  after reaching certain milestones: bronze, silver, gold, and a special "high-performer" award for a high value task over 50 points. If tasks are deleted, or a backup/import is
   loaded, then the bar and rewards will be altered on relaunch.</p>
 
 <p>Tasks are saved in a JSON file format, task lists can be backed up, and backups can be restored. Tasks can also be imported or exported in CSV format.
